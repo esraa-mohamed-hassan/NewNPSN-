@@ -463,7 +463,7 @@
                                         <th style="width: 24%">{{ __('lang.job') }}</th>
                                         <th style="width: 20%">{{ __('lang.Dentity') }}</th>
                                         <th style="width: 16%">{{ __('lang.sub_dentity') }}</th>
-                                        <th style="width: 18%">{{ __('lang.phone') }}</th>
+                                        <th style="width: 18%">{{ __('lang.Dphone') }}</th>
                                         <th style="width: 17%">{{ __('lang.mobile') }}</th>
                                         <th style="width: 15%">{{ __('lang.fax') }}</th>
                                     </tr>

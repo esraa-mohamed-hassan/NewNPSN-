@@ -182,7 +182,7 @@
                                         <th>{{ __('lang.job') }}</th>
                                         <th>{{ __('lang.Dentity') }}</th>
                                         <th>{{ __('lang.sub_dentity') }}</th>
-                                        <th>{{ __('lang.phone') }}</th>
+                                        <th>{{ __('lang.Dphone') }}</th>
                                         <th>{{ __('lang.mobile') }}</th>
                                         <th>{{ __('lang.fax') }}</th>
                                     </tr>
